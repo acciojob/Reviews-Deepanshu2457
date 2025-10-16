@@ -1,6 +1,6 @@
 import React from 'react'
 import  { useState } from 'react'
-const review = () => {
+const Review = () => {
  const data=
      [
   {
@@ -91,4 +91,4 @@ const [curr,setCurr]=useState(0)
 
 
 
-export default review
+export default Review
